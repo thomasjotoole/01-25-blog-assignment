@@ -8,7 +8,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-color: #80bfff;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -20,7 +20,7 @@ nav {
   float: left;
   width: 30%;
   height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
+  background: #b3d9ff;
   padding: 20px;
 }
 
@@ -34,7 +34,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #f1f1f1;
+  background-color: #e6f2ff;
   height: 700px; /* only for demonstration, should be removed */
 }
 
