@@ -8,11 +8,11 @@ body {
 
 /* Style the header */
 header {
-  background-color: #80bfff;
-  padding: 30px;
+  background-color: #4f7942;
+  padding: 1px;
   text-align: center;
-  font-size: 35px;
-  color: white;
+  font-size: 30px;
+  color: #DFE6DA;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -20,8 +20,9 @@ nav {
   float: left;
   width: 30%;
   height: 300px; /* only for demonstration, should be removed */
-  background: #b3d9ff;
+  background-color: #679267;
   padding: 20px;
+  font-size: 20px;
 }
 
 /* Style the list inside the menu */
@@ -34,8 +35,8 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #e6f2ff;
-  height: 700px; /* only for demonstration, should be removed */
+  background-color: #9CAF88;
+  color: #DFE6DA;
 }
 
 modules {
